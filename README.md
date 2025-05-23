@@ -50,14 +50,6 @@ Polished, fast, and super customizable!
 
 ---
 
-## 📸 **Screenshots**
-
-| Search & Preview                      | Full Article View & Export |
-| ------------------------------------- | --------------------------|
-| ![search-preview](screenshots/search.png) | ![full-article](screenshots/full.png) |
-
----
-
 ## 🤓 **How it Works**
 
 - **Type your keyword** in the search bar and hit Enter (or click Search).
@@ -65,7 +57,4 @@ Polished, fast, and super customizable!
 - **Click “Load Article”** to view the full article (plus image, if available).
 - **Export** in your favorite format with the buttons below the article.
 
----
-
-## 📦 Folder Structure
 
